@@ -6,6 +6,8 @@
   // --- フォーマット & インポート整理 ---
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "ms-python.black-formatter",
+  "editor.renderWhitespace": "all",
+  "editor.renderControlCharacters": true,
   "editor.codeActionsOnSave": {
     "source.organizeImports": "explicit"
   },
