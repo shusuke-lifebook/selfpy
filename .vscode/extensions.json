@@ -23,7 +23,6 @@
     "ms-dotnettools.csdevkit",
     "ms-dotnettools.csharp",
     "ms-dotnettools.vscode-dotnet-runtime",
-    "ms-dotnettools.vscodeintellicode-csharp",
     "ms-python.autopep8",
     "ms-python.black-formatter",
     "ms-python.debugpy",
